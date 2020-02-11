@@ -1,0 +1,2 @@
+No need of for loop.
+This code basically assigns every component of set to a root of another set, not just set to set.
