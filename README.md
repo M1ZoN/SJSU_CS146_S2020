@@ -9,8 +9,8 @@ Assignments finished so far:
 
 Assignment | Progress | Due Date | Points |
 :--------: | :------: | :------: | :----: |
-[`Assignment 1`](./Assignment1) | :clipboard:        | Due Feb 17 at 11:59pm| -/100|
-Assignment 2                    | :no_entry_sign:    | Due Feb 18 at 11:59pm| -/65 |
+[`Assignment 1`](./Assignment1) | :white_check_mark: | Due Feb 17 at 11:59pm| -/100|
+Assignment 2                    | :soon:             | Due Feb 18 at 11:59pm| -/65 |
 Assignment 3                    | :no_entry_sign:    | Due Feb 20 at 11:59pm| -/30 |
 Assignment 4                    | :no_entry_sign:    | Due Feb 27 at 11:59pm| -/50 |
 Assignment 5                    | :no_entry_sign:    | Due Mar 10 at 11:59pm| -/75 |
