@@ -1,1 +1,10 @@
+Problem 1:
+            False
+            
+Problem 2:
+            Prove by Contradiction.
+                  Assuming that it is not empty. Let f(n) ∈ o(g(n)) ∩ ω(g(n)) Now f(n) = ω(g(n)) iff g(n) = o(f(n)) and
+by assumption we will get f(n) = o(g(n)). Using transitivity property we can get that f(n) = o(f(n)) => ∀ constants c > 0, f(n) < cf(n). Choose c < 1 and we will get the contradiction.
 
+Problem 3:
+            
