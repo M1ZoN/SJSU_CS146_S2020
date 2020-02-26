@@ -7,4 +7,13 @@ Problem 2:
 by assumption we will get f(n) = o(g(n)). Using transitivity property we can get that f(n) = o(f(n)) => ∀ constants c > 0, f(n) < cf(n). Choose c < 1 and we will get the contradiction.
 
 Problem 3:
+            Relation: 1) f <= small-o(g)
+                      2) g <= small-omega(f)
+                      3) f <= big-O(g)
+                      4) g <= big-O(f)
+                      5) f <= small-omega(g)
             
+            
+Problem 4:
+            a) g(n) = O(f(n))
+            b) f(n) = O(g(n))
