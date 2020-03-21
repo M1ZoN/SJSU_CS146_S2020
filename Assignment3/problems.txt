@@ -1,1 +1,22 @@
-
+problem 4:
+        E A S Y Q U E S T I O N
+        #A E# S Y Q U E S T I O N
+        A E #S Y# Q U E S T I O N
+        #A E S Y# Q U E S T I O N
+        A E S Y #Q U# E S T I O N
+        A E S Y Q U #E S# T I O N
+        A E S Y #E Q S U# T I O N
+        #A E E Q S S U Y# T I O N
+        A E E Q S S U Y #I T# O N
+        A E E Q S S U Y I T #N O#
+        A E E Q S S U Y #I N O T#
+        #A E E I N O Q S S T U Y#
+        
+problem 5:
+        2 N ln(N)
+        
+problem 6:
+        R R P T Y O I U Q I E U (E remains in queue)
+        
+problem 7:
+        Heap is kind of balanced binary tree , comparing parent's childer's values. If paren't value greater than children's => Max Heap.
