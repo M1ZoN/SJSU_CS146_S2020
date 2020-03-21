@@ -11,8 +11,8 @@ Assignment | Progress | Due Date | Points |
 :--------: | :------: | :------: | :----: |
 [`Assignment 1`](./Assignment1) | :white_check_mark: | Due Feb 17 at 11:59pm| -/100|
 [`Assignment 2`](./Assignment2) | :white_check_mark: | Due Feb 26 at 11:59pm| -/70 |
-Assignment 3                    | :soon:             | Due Feb 20 at 11:59pm| -/30 |
-Assignment 4                    | :no_entry_sign:    | Due Feb 27 at 11:59pm| -/50 |
+[`Assignment 3`](./Assignment3) | :white_check_mark: | Due Feb 20 at 11:59pm| -/30 |
+Assignment 4                    | :soon:             | Due Feb 27 at 11:59pm| -/50 |
 Assignment 5                    | :no_entry_sign:    | Due Mar 10 at 11:59pm| -/75 |
 Assignment 6                    | :no_entry_sign:    | Due Mar 12 at 11:59pm| -/45 |
 Assignment 7                    | :no_entry_sign:    | Due Apr 9 at 11:59pm | -/40 |
